@@ -1,0 +1,6 @@
+{
+  "name": "ফার্মেসি টালিখাতা & ম্যানেজমেন্ট",
+  "description": "সম্পূর্ণ ফার্মেসি ম্যানেজমেন্ট ও টালিখাতা অ্যাপ - কাস্টমার বাকি হিসাব, ক্যাশ বাক্স, ওষুধ ইনভентরি, বারকোড এবং লাভ-লোকসান রিপোর্ট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
